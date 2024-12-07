@@ -16,4 +16,5 @@ Artigo 3: https://proceedings.science/sbpo/sbpo-2022/trabalhos/sistema-de-suport
 
 --
 
-## Mande seu texto aqui: https://github.com/DalvanaRibeiro/PI-TDS23-1N/discussions/1
+## Mande seu texto para o email: lopesribeirodalvana20@gmail.com
+## Assunto: PI - TDS23-1N
