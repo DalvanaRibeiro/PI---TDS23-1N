@@ -13,3 +13,7 @@ Artigo 2: https://www.even3.com.br/anais/cobicet2024/897651-aplicativo-computaci
 
 
 Artigo 3: https://proceedings.science/sbpo/sbpo-2022/trabalhos/sistema-de-suporte-a-decisao-baseado-em-websig-no-enfrentamento-a-covid-19?lang=pt-br
+
+--
+
+## Mande seu texto aqui: https://github.com/DalvanaRibeiro/PI-TDS23-1N/discussions/1
